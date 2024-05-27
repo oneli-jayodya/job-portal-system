@@ -1,4 +1,4 @@
-In this project you have to install laravel and breeze first. After that do these changes. There is a documentation please go throught and get the idea about the project
+In this project you have to install Java-21 laravel-11 and breeze first. After that do these changes. There is a documentation please go throught and get the idea about the project
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
